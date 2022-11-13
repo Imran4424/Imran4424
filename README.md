@@ -12,8 +12,8 @@
 ![Imran's github stats](https://github-readme-stats.vercel.app/api?username=imran4424&count_private=true&show_icons=true&theme=gruvbox)
 -->
 
-<img src = "https://github-readme-stats.vercel.app/api?username=imran4424&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" align='left' width="48%"/>
-<img src = 'https://github-readme-streak-stats.herokuapp.com/?user=imran4424&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact' align='right' width="48%"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=imran4424&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" align='left' width="47%"/>
+<img src = 'https://github-readme-streak-stats.herokuapp.com/?user=imran4424&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact' align='right' width="47%"/>
 
 <!--
 **Imran4424/Imran4424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
