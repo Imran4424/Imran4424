@@ -1,9 +1,9 @@
 
 <img align="right" alt="GIF" src="JXA0.gif" />
 <span style="font-family:'Consolas';font-size:65mm;white-space: nowrap;">
-<a href="https://www.linkedin.com/in/shah-md-imran-hossain-785b5a117/" target="_blank"><img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"></a>
-<a href="https://imran4424.github.io/" target="_blank"><img align="left" alt="Website" width="24px" src="https://img.icons8.com/color/48/000000/internet--v2.png"></a>
-<a href="https://stackoverflow.com/users/6028039/shah-md-imran-hossain" target="_blank"><img align="left" alt="Stackoverflow" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"></a>
+<a href="https://www.linkedin.com/in/shah-md-imran-hossain-785b5a117/"><img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" target="_blank"></a>
+<a href="https://imran4424.github.io/"><img align="left" alt="Website" width="24px" src="https://img.icons8.com/color/48/000000/internet--v2.png" target="_blank"></a>
+<a href="https://stackoverflow.com/users/6028039/shah-md-imran-hossain"><img align="left" alt="Stackoverflow" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" target="_blank"></a>
 <p> <img src="https://komarev.com/ghpvc/?username=imran4424&label=Profile%20views&color=0e75b6&style=flat" alt="imran"> </p>
 
   ### Hi there 👋, I am Shah Md. Imran Hossain
