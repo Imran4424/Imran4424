@@ -8,11 +8,25 @@
 <p> <img src="https://komarev.com/ghpvc/?username=imran4424&label=Profile%20views&color=0e75b6&style=flat" alt="imran"> </p>
 
   ### Hi there 👋, I am Shah Md. Imran Hossain
+  
+ <div align='left' id="user-content-toc">
+ <ul>
+    <li>💻 I’m currently working as a Sr. Software Engineer(iOS)</li>
+    <li>🌱 I’m currently learning about Software Architecture</li>
+    <li>👯 I’m looking to collaborate on opensource iOS application</li>
+    <li>😍 I'm also interested about software engineering research</li>
+    <li>🔭 I'm also looking for funded PhD program on Software Engineering</li>
+    <li>🎮 I'm also love to play games</li>
+    <li>😘😍💻 Happy Coding 💻😍😘</li>
+ </ul>
+ </div>
 
 <!--
 ![Imran's github stats](https://github-readme-stats.vercel.app/api?username=imran4424&count_private=true&show_icons=true&theme=gruvbox)
 -->
 
+<br>
+<br>
 <img src = "https://github-readme-stats.vercel.app/api?username=imran4424&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" align='left' width="47%"/>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=imran4424&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact' align='right' width="47%"/>
 
