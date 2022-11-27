@@ -15,7 +15,7 @@
     <li>🌱 I’m currently learning about Software Architecture</li>
     <li>👯 I’m looking to collaborate on opensource iOS application</li>
     <li>😍 I'm also interested about software engineering research</li>
-    <li>🔭 I'm also looking for funded PhD program on Software Engineering</li>
+    <li>🔭 Looking for funded PhD program on Software Engineering</li>
     <li>🎮 I'm also love to play games</li>
     <li>😘😍💻 Happy Coding 💻😍😘</li>
  </ul>
