@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="JXA0.gif" />
+<img align="right" alt="GIF" src="CodingBlack.gif" />
 <span style="font-family:'Consolas';font-size:65mm;white-space: nowrap;">
 <a href="https://www.linkedin.com/in/shah-md-imran-hossain-785b5a117/"><img align="left" alt="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png"></a>
 <a href="https://imran4424.github.io/"><img align="left" alt="Website" width="24px" src="https://img.icons8.com/color/48/000000/internet--v2.png"></a>
@@ -26,6 +26,7 @@
 ![Imran's github stats](https://github-readme-stats.vercel.app/api?username=imran4424&count_private=true&show_icons=true&theme=gruvbox)
 -->
 
+<br>
 <br>
 <br>
 <img src = "https://github-readme-stats.vercel.app/api?username=imran4424&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" align='left' width="47%"/>
