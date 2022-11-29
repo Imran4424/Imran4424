@@ -28,7 +28,6 @@
 
 <br>
 <br>
-<br>
 <img src = "https://github-readme-stats.vercel.app/api?username=imran4424&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" align='left' width="47%"/>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=imran4424&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact' align='right' width="47%"/>
 
