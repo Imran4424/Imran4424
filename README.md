@@ -11,7 +11,7 @@
   
  <div align='left' id="user-content-toc">
  <ul>
-    <li>💻 I’m currently working as a Sr. Software Engineer(iOS)</li>
+    <li>💻 I’m currently working as Software Engineer(iOS)</li>
     <li>🌱 I’m currently learning about Software Architecture</li>
     <li>👯 I’m looking to collaborate on opensource iOS application</li>
     <li>😍 I'm also interested about software engineering research</li>
