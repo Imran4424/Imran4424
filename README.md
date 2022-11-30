@@ -34,6 +34,12 @@
 <br>
 <br>
   
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imran4424&show_icons=true&count_private=true&theme=gruvbox" align="left" width="47%"/>
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imran4424&show_icons=true&count_private=true&theme=gruvbox" align="right" width="47%"/>
+  
+<br>
+<br>
+<br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=imran4424&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact&langs_count=5&hide=shaderlab,ruby,html,css" align="left" width="47%"/>
   
 <!--
