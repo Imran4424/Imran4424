@@ -1,5 +1,5 @@
 
-<img align="right" width="51%" alt="GIF" src="CodingBlack.gif" />
+<img align="right" width="49%" alt="GIF" src="CodingBlack.gif" />
 <span style="font-family:'Consolas';font-size:65mm;white-space: nowrap;">
 <a href="https://www.linkedin.com/in/shah-md-imran-hossain-785b5a117/"><img align="left" alt="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png"></a>
 <a href="https://imran4424.github.io/"><img align="left" alt="Website" width="24px" src="https://img.icons8.com/color/48/000000/internet--v2.png"></a>
@@ -31,6 +31,11 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=imran4424&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" align='left' width="47%"/>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=imran4424&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact' align='right' width="47%"/>
 
+<br>
+<br>
+  
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=imran4424&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact&langs_count=5&hide=shaderlab,ruby,html,css" align="left" width="47%"/>
+  
 <!--
 **Imran4424/Imran4424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
