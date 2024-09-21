@@ -14,7 +14,7 @@
  <ul>
     <li>💻 I’m currently working as Software Engineer(iOS)</li>
     <li>🌱 I’m currently learning about Software Architecture</li>
-    <li>👯 Looking forward to collaborate on opensource iOS application</li>
+    <li>👯 Looking forward to collaborate on OpenSource iOS application</li>
     <li>😍 My Research Interests are: Computer Vision, NLP, LLM </li>
     <li>🔭 Looking for funded PhD program on Computer Vision, NLP, LLM</li>
     <li>📚 I love to reading novels</li>
