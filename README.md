@@ -14,11 +14,11 @@
  <ul>
     <li>💻 I’m currently working as Software Engineer(iOS)</li>
     <li>🌱 I’m currently learning about Software Architecture</li>
-    <li>👯 I’m looking to collaborate on opensource iOS application</li>
+    <li>👯 I’m looking forward to collaborate on opensource iOS application</li>
     <li>😍 My Research Interests are: Computer Vision, NLP, LLM </li>
     <li>🔭 Looking for funded PhD program on Computer Vision, NLP, LLM</li>
-    <li>📚 I'm love to reading novels</li>
-    <li>🎮 I'm love to play video games</li>
+    <li>📚 I love to reading novels</li>
+    <li>🎮 I love to play video games</li>
     <li>😘😍💻 Happy Coding 💻😍😘</li>
  </ul>
  </div>
