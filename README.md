@@ -22,11 +22,22 @@
  </ul>
  </div>
 
-<!--
-![Imran's github stats](https://github-readme-stats.vercel.app/api?username=imran4424&count_private=true&show_icons=true&theme=gruvbox)
--->
-
 <br>
 <br>
 <img src = "https://github-readme-stats.vercel.app/api?username=imran4424&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" align='left' width="47%"/>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=imran4424&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact' align='right' width="47%"/>
+
+<!-- Adding more blank lines -->
+<br><br><br><br><br><br><br><br><br><br>
+
+---
+
+## 📝 Research Profile
+
+### Research Interests
+
+- 🤖 **Computer Vision**
+- 📝 **Natural Language Processing**
+- 📚 **Large Language Models**
+
+---
