@@ -13,7 +13,7 @@
  <ul>
     <li>💻 I’m currently working as Software Engineer(iOS)</li>
     <li>🌱 I’m currently learning about Software Architecture</li>
-    <li>👯 Looking forward to collaborate on OpenSource iOS application</li>
+    <li>👯 Looking forward to collaborate on OpenSource iOS App</li>
     <li>😍 My Research Interests are: CV, NLP, LLM </li>
     <li>🔭 Looking for funded PhD program on CV, NLP, LLM</li>
     <li>📚 I love to reading novels</li>
