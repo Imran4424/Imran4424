@@ -40,6 +40,5 @@
 - 📝 **Natural Language Processing**
 - 📚 **Large Language Models**
 - 🕶️ **Virtual Reality (VR)**
-- 🌍 **Mixed Reality (MR)**
 
 ---
