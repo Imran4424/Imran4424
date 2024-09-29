@@ -32,6 +32,12 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=imran4424&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" align='left' width="47%"/>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=imran4424&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact' align='right' width="47%"/>
 
+<br><br><br><br><br><br><br><br>
+
+# Tropies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=imran4424)
+
 <!--
 **Imran4424/Imran4424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ---------------------card start-------------
