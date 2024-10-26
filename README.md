@@ -43,15 +43,12 @@
 
 # **Computer Vision**
 **[A1 Canvas](https://apps.apple.com/us/app/a1-canvas/id6452395783)**
-A computer vison model built with CreateML framework from Apple.
 
-This model able to detect characters from 0 to 9 and A to Z (both uppercase and lowercase)
-
-DataSet created by myself
-
-DataSet amount per character is 200
-
-Picture resolution: 256 * 256
+- A computer vison model built with CreateML framework from Apple.
+- This model able to detect characters from 0 to 9 and A to Z (both uppercase and lowercase)
+- DataSet created by myself
+- DataSet amount per character is 200
+- Picture resolution: 256 * 256
 
 # **Natural Language Processing**
 ---
