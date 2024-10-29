@@ -43,7 +43,7 @@
 
 ----
 
-# **Computer Vision**
+# 🤖 **Computer Vision**
 **[A1 Canvas](https://apps.apple.com/us/app/a1-canvas/id6452395783)**
 
 - A computer vison model built with CreateML framework from Apple.
@@ -54,6 +54,10 @@
 
 ---
 
-# **Natural Language Processing**
+# 📝 **Natural Language Processing**
+**[Spam Message Classification](https://github.com/Imran4424/NLP-SpamMessageClassification)**
+
+- A
+- A
 
 ---
