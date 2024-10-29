@@ -57,7 +57,9 @@
 # 📝 **Natural Language Processing**
 **[Spam Message Classification](https://github.com/Imran4424/NLP-SpamMessageClassification)**
 
-- A
-- A
+- Train and Test DataSet size ratio is 80/20
+- Two spam classifier have been used for classify the message spam or not
+- First model is using Random Forest. Accuracy: 95.9866%
+- Second model is using Support Vector Machine(SVM). Accuracy: 96.3211%
 
 ---
