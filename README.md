@@ -51,7 +51,6 @@
 - DataSet created by myself
 - DataSet amount per character is 200
 - Picture resolution: 256 * 256
-
 ---
 
 # 📝 **Natural Language Processing**
