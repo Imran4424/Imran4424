@@ -14,8 +14,8 @@
     <li>💻 I’m currently working as Software Engineer(iOS)</li>
     <li>🌱 I’m currently learning about Software Architecture</li>
     <li>👯 Looking forward to collaborate on OpenSource iOS App</li>
-    <li>😍 My Research Interests are: CV, NLP, LLM </li>
-    <li>🔭 Looking for funded PhD program on CV, NLP, LLM</li>
+    <li>😍 My Research Interests are: AI and Software Engineering </li>
+    <li>🔭 Looking for funded PhD program on AI and Software Engineering </li>
     <li>📚 I love to reading novels</li>
     <li>🎮 I love to play video games</li>
     <li>😘😍💻 Happy Coding 💻😍😘</li>
@@ -38,7 +38,8 @@
 
 - 🤖 **Computer Vision**
 - 📝 **Natural Language Processing**
-- 📚 **Large Language Models**
+- 🖥️ **Automated Code Generation and Program Synthesis**
+- 📚 **AI-Driven Software Documentation**
 - 🕶️ **Virtual Reality (VR)**
 
 ----
