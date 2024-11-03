@@ -14,7 +14,7 @@
     <li>💻 I’m currently working as Software Engineer(iOS)</li>
     <li>🌱 I’m currently learning about Software Architecture</li>
     <li>👯 Looking forward to collaborate on OpenSource iOS App</li>
-    <li>😍 My Research Interests are: AI and Software Engineering </li>
+    <li>😍 I am also Interested in: AI and SE Research </li>
     <li>🔭 Looking for funded PhD program on AI and Software Engineering </li>
     <li>📚 I love to reading novels</li>
     <li>🎮 I love to play video games</li>
