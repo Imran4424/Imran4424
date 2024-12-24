@@ -28,7 +28,7 @@
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=imran4424&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact' align='right' width="47%"/>
 ---
 <!-- Adding more blank lines -->
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## 🚀 Languages & Tools
 
