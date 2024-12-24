@@ -28,7 +28,7 @@
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=imran4424&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact' align='right' width="47%"/>
 
 <!-- Adding more blank lines -->
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 ## 🚀 Languages & Tools
 
 ### **Programming Languages**
@@ -52,7 +52,7 @@
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-0F5EC7?style=for-the-badge&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-1F8448?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
