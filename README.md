@@ -67,7 +67,7 @@
 
 - 🤖 **Computer Vision**
 - 📝 **Natural Language Processing**
-- 🤖📝📚 **Large Language Model**
+- 👨‍💻 **Large Language Model**
 - 🖥️ **Automated Code Generation and Program Synthesis**
 - 📚 **AI-Driven Software Documentation**
 - 🕶️ **Virtual Reality (VR)**
