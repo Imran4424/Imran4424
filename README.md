@@ -72,7 +72,7 @@
 - 📚 **AI-Driven Software Documentation**
 - 🕶️ **Virtual Reality (VR)**
 
-----
+---
 
 # 🤖 **Computer Vision**
 **[A1 Canvas](https://apps.apple.com/us/app/a1-canvas/id6452395783)**
