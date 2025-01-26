@@ -25,7 +25,7 @@
 <br>
 <br>
 <img src = "https://github-readme-stats.vercel.app/api?username=imran4424&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" align="left" width="47%"/>
-<img src = "https://github-readme-streak-stats-roan-pi.vercel.app?user=imran4424&theme=aura" align="right" width="49% alt="GitHub Streak"/>
+<img src = "https://github-readme-streak-stats-roan-pi.vercel.app?user=imran4424&theme=aura" align="right" width="48% alt="GitHub Streak"/>
 
 <!-- Adding more blank lines -->
 <br><br><br><br><br><br><br><br>
