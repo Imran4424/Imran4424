@@ -4,7 +4,8 @@
 <a href="https://imran4424.github.io/"><img align="left" alt="Website" width="24px" src="https://img.icons8.com/color/48/000000/internet--v2.png"></a>
 <a href="https://stackoverflow.com/users/6028039/shah-md-imran-hossain"><img align="left" alt="Stackoverflow" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"></a>
 <a href="https://shahcodersden.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="wordpress" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174881.png"></a>
-<a href="https://stardev.io/developers/Imran4424"><img align="left" alt="stardev" width="24px" src="https://stardev.io/img/logo.png"></a>
+<a href="https://wa.me/message/YN3P42EMI4HEJ1" target="_blank" rel="noopener noreferrer"><img align="left" alt="WhatsApp" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a>
+<!-- <a href="https://stardev.io/developers/Imran4424"><img align="left" alt="stardev" width="24px" src="https://stardev.io/img/logo.png"></a> -->
 <p> <img src="https://komarev.com/ghpvc/?username=imran4424&label=Profile%20views&color=0e75b6&style=flat" alt="imran"> </p>
 
 ### Hi there 👋, I am Shah Md. Imran Hossain
